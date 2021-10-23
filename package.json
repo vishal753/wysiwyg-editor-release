@@ -1,5 +1,5 @@
 {
-  "name": "froala-editor",
+  "name": "rich-text-editor-vj",
   "version": "3.0.5",
   "description": "The next generation Javascript WYSIWYG HTML rich text editor made by devs for devs. High performance and modern design make it easy to use for developers and loved by users.",
   "keywords": [
@@ -17,15 +17,14 @@
     "javascript",
     "vanillajs"
   ],
-  "homepage": "https://www.froala.com/wysiwyg-editor",
-  "license": "https://www.froala.com/wysiwyg-editor/pricing",
+  "homepage": "https://github.com/vishal753/wysiwyg-editor-release",
   "repository": {
     "type": "git",
-    "url": "git://github.com/froala/wysiwyg-editor-release.git"
+    "url": "git://github.com/vishal753/wysiwyg-editor-release.git"
   },
   "maintainers": [
     {
-      "name": "Froala Labs"
+      "name": "Vishal Joshi"
     }
   ],
   "filename": "js/froala_editor.min.js",
